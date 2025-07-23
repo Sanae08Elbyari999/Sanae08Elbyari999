@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<h2>🛠 Technical Skills</h2>
+<h2> Technical Skills</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -49,13 +49,13 @@
   • English: Intermediate
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SanaeElByari&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaeElByari&layout=compact" alt="Top Languages">
 </p>
 
-<h2>📫 Let's Connect!</h2>
+<h2> Let's Connect!</h2>
 <p>
   I'm always open to discussing new projects, creative ideas or opportunities. Feel free to reach out!
 </p>
