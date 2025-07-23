@@ -1,4 +1,4 @@
-
+<img src="data:image/png;base64,VOTRE_IMAGE_EN_BASE64_ICI" alt="Sanae El Byari Header" width="100%">
 <p>
   <a href="https://www.linkedin.com/in/sanae-el-byari-0273681b2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="mailto:elbyarisanae@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
