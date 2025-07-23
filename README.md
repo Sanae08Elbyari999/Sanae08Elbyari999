@@ -5,12 +5,12 @@
   <a href="mailto:elbyarisanae@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
-<h2>👋 About Me</h2>
+<h2> About Me</h2>
 <p>
   Passionate Software Engineering student specializing in Information Systems Development and Digital Transformation. I love creating innovative IT solutions with a focus on data science, AI, and full-stack development. My multidisciplinary background allows me to tackle complex tech challenges with creativity and efficiency.
 </p>
 
-<h2>🚀 Featured Projects</h2>
+<h2> Featured Projects</h2>
 <div>
   <a href="#" target="_blank" rel="noreferrer nofollow">
     <img src="https://via.placeholder.com/300x200?text=Digitalization+of+Performance+Meetings" alt="OCP Performance App" width="30%">
@@ -35,14 +35,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<h2>📚 Education</h2>
+<h2> Education</h2>
 <p>
   <strong>Engineering Program in Information Systems Development and Digital Transformation</strong><br>
   École Supérieure d'Informatique (ESI) – Rabat<br>
   Admitted after completing two years of CPGE in Mathematics and Physics
 </p>
 
-<h2>🌍 Languages</h2>
+<h2> Languages</h2>
 <p>
   • Arabic: Native <br>
   • French: Fluent <br>
