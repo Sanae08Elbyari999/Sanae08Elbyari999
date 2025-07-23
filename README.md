@@ -1,4 +1,3 @@
-<img src="https://github.com/SanaeElByari/SanaeElByari/blob/main/header.png" alt="Sanae El Byari GitHub README header image">
 
 <p>
   <a href="https://www.linkedin.com/in/sanae-el-byari-0273681b2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -10,18 +9,6 @@
   Passionate Software Engineering student specializing in Information Systems Development and Digital Transformation. I love creating innovative IT solutions with a focus on data science, AI, and full-stack development. My multidisciplinary background allows me to tackle complex tech challenges with creativity and efficiency.
 </p>
 
-<h2> Featured Projects</h2>
-<div>
-  <a href="#" target="_blank" rel="noreferrer nofollow">
-    <img src="https://via.placeholder.com/300x200?text=Digitalization+of+Performance+Meetings" alt="OCP Performance App" width="30%">
-  </a>
-  <a href="#" target="_blank" rel="noreferrer nofollow">
-    <img src="https://via.placeholder.com/300x200?text=Legal+Consultation+App" alt="Legal Consultation App" width="30%">
-  </a>
-  <a href="#" target="_blank" rel="noreferrer nofollow">
-    <img src="https://via.placeholder.com/300x200?text=NutriTrack" alt="NutriTrack" width="30%">
-  </a>
-</div>
 
 <h2> Technical Skills</h2>
 <p>
